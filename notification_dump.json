@@ -1,0 +1,21 @@
+{
+    "username": "GITLAB BOT",
+    "avatar_url": "https://about.gitlab.com/images/press/logo/png/gitlab-logo-500.png",
+    "content": "DANGER! DANGER",
+    "embeds": [
+      {
+        "title": "Ahhhhhhhhhhhhh",
+        "color": 0,
+        "description": "Something went wrong",
+        "timestamp": "",
+        "author": {
+          "name": "GITLAB"
+        },
+        "image": {},
+        "thumbnail": {},
+        "footer": {},
+        "fields": []
+      }
+    ],
+    "components": []
+  }
