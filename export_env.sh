@@ -14,8 +14,7 @@
 #       System environment variables (need translation)
 #
 export PG_COLOR=always
-#export DIR="$(dirname "${BASH_SOURCE[0]}")"
-export DIR="$(pwd)"
+export DIR="$(dirname "${BASH_SOURCE[0]}")"
 export LOG_DIR="$DIR/logs"
 
 export BACKUP_DIR="/var/opt/gitlab/backups"
